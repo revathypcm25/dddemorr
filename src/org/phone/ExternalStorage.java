@@ -5,6 +5,7 @@ public class ExternalStorage {
 System.out.println("size");
 	}
 	public static void main(String[] args) {
+		System.out.println("hai");
 		
 	}
 

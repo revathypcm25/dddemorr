@@ -6,6 +6,7 @@ System.out.println("Prosessor Name");
 	}
 	private void ramSize() {
 System.out.println("Ram Size");
+System.out.println("size");
 	}
 public static void main(String[] args) {
 	InternalStorage i = new InternalStorage();
@@ -13,5 +14,6 @@ public static void main(String[] args) {
 	i.prosessorName();
 	i.ramSize();
 	e.size();
+	
 }
 }
